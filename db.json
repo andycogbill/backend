@@ -1,12 +1,9 @@
 {
 	"tabs": [
 		{
-			"id": 1,
-			"title": "hello",
-			"description": "descrip"
+			"id": "refi",
+			"title": "Refinance a Mortgage",
+			"description": "Here is the page description for Refinance"
 		}
-	],
-	"profile": {
-		"name": "typicode"
-	}
+	]
 }
