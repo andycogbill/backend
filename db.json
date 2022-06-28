@@ -1,9 +1,9 @@
 {
-	"posts": [
+	"tabs": [
 		{
-			"id": 1,
-			"title": "hello",
-			"description": "descrip"
+			"id": "refi",
+			"title": "Refinance a Mortgage",
+			"description": "Description of refi"
 		}
 	],
 	"profile": {
