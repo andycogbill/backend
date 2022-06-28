@@ -1,7 +1,7 @@
 {
 	"tabs": [
 		{
-			"id": "refi",
+			"id": 1,
 			"title": "Refinance a Mortgage",
 			"description": "Description of refi"
 		}
