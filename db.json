@@ -3,12 +3,24 @@
 		{
 			"id": "refi",
 			"title": "Refinance a Mortgage",
-			"description": "Here is the page description for Refinance"
+			"description": "Here is the page description for Refinance",
+			"object": {
+				"accounts": [
+					{"name": "New",
+					"balance": 0}
+				]
+			}
 		},
 		{
 			"id": "single",
 			"title": "See a Mortgage over time",
-			"description": "Here is the page description for Single Mortgage"
+			"description": "Here is the page description for Single Mortgage",
+			"object": {
+				"accounts": [
+					{"name": "New",
+					"balance": 0}
+				]
+			}
 		}
 	]
 }
